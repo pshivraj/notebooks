@@ -2,6 +2,10 @@
 Reference.ipynb
 test.csv
 curviz.ipynb
+creds.txt
+testcurrent.csv
+testwind.csv
+
 
 dev_notebooks/rob/creds/iotauth.txt
 dev_notebooks/rob/creds/ooiauth.txt
